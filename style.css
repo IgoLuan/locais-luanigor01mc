@@ -49,6 +49,7 @@ p, li, th, td {
     background: #fff7fb;
     padding: 28px;
     border-radius: 12px;
+    margin-bottom: 32px;
 }
 
 .tempo h2 {
@@ -58,7 +59,6 @@ p, li, th, td {
     font-weight: 600;
     line-height: 100%;
     margin-bottom: 16px;
-    margin-bottom: 32px;
 }
 
 li {
